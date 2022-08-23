@@ -1,0 +1,47 @@
+1. what is SDLC
+
+Software development Life cycle is the process that broadly classifies as Design, Developement and testing that helps to build a software
+where the different phases includes # requirement gathering          
+                                    # Planning 
+                                    # Analysis
+                                    # Design
+                                    # Implememtation
+                                    # Testing
+                                    # Deployement
+                                    # maintanace
+
+ 
+2. What is Agile and Scrum
+
+        Agile: Agile methodology is a practice that helps continuous iteration of SDLC life cycle.
+               Agile breaks the product into smaller builds.      
+        Scrum: Scrum framework in Agile is a process that allows software development teams to focus on delivering business values 
+               in shortest time by rapidly and repeatedly inspecting changing requirements  
+               It is a iteration of Plan-->Build-->test-->reciew.
+
+3. what is DevOps      
+
+   Devops is the combination of Software developement and IT Operations taht improves the quality and speed of an app delivery. 
+
+4. Devops life cycle:   
+  It includes contineous integration, contineous Deployement,Automation and App management.
+  
+5.Diiferent Service models and deployement models
+  
+  Any Cloud platform(AWS/Azure/GCP) includes service models-- Iaas- Infrastructure as a service
+                                                              Pass- Platform as a service
+                                                              Saas- software as a service
+ cloud deployement models includes: 1. Public Cloud 
+                                    The public cloud makes it possible for anybody to access systems and services.
+                                    It is a type of cloud hosting that allows customers and users to easily access systems and services
+                                    Ex. Google cloud for storage
+ 2. Private cloud; Private cloud is which can be accessed by a single user or entity. It’s a one-on-one environment.
+                   that is protected by powerful firewalls and under the supervision of an organization’s IT department. 
+
+3. community cloud: this is the environment in which a group of users or organizations have the access.
+4. Hybrid cloud: it is the combination of both private and public cloud hosting th best features of both. privacy and security of private enveronment and cost effectiveness of public cloud.
+
+6. Cloud Computing:
+   Cloud Computing refers to manipulating, configuring, and accessing the hardware and software resources remotely. 
+   Cloud computing offers platform independency, as the software is not required to be installed locally on the PC
+   It offers Aplication, data, middleware,OS, virtualization,servers,storage & networking based on which service model we choose.
